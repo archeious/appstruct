@@ -1,0 +1,2 @@
+# appstruct
+Application Structure
