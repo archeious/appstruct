@@ -1,0 +1,2 @@
+FIRST = 10
+SECOND = "APP NAME"
