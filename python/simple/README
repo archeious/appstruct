@@ -1,0 +1,8 @@
+Simple Python Structure.
+
+Application goes in a folder named after the application.
+
+Inside of that folder there are trhree files.
+* main.py - This is the main application.  This is the entry point.
+* helper.py - Just like the name implies, this is where helper functions live.
+* constants.py - This is where constants and configuration live.
